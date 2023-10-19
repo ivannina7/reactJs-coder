@@ -1,0 +1,18 @@
+.navBar-css{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-weight: 500;
+    list-style-type: none;
+    margin-top: 100px;
+}
+
